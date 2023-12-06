@@ -1,0 +1,10 @@
+.task {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+.task form {
+  display: flex;
+  gap: 1rem;
+}
